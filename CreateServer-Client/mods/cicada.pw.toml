@@ -1,0 +1,13 @@
+name = "CICADA"
+filename = "cicada-lib-0.14.3+1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eeed84e999045dada698454a845202289ca54977"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7068950
+project-id = 989574

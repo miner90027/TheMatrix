@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "undergroundworlds-neoforge-3.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "681d8c8d6a8960c112c7f2499a2bfefb05bd4901"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8173750
+project-id = 918314

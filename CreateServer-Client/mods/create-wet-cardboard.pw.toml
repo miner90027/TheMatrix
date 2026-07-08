@@ -1,0 +1,13 @@
+name = "Create Wet Cardboard"
+filename = "create_wet_cardboard-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38538bc5c3aa1932d58af0171aab1c1dc65bd26c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7803973
+project-id = 1494322

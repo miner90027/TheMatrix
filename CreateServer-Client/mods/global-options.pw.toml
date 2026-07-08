@@ -1,0 +1,13 @@
+name = "Global Options"
+filename = "global_options-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd9e4ae92de6703daf13dc7f484ceb83f0a3b9ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4608990
+project-id = 880678

@@ -1,0 +1,13 @@
+name = "Create: Access Denied"
+filename = "create-access-denied-0.0.4+c6.0.10.mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73f9956e6be9261ab61be81a647ba5030d877bc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7984871
+project-id = 1380459

@@ -1,0 +1,13 @@
+name = "The Roads More Travelled [TRMT]"
+filename = "trmt-0.5.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d2a0b7c28390a8ebe590945aea9fa1208d88c36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8174511
+project-id = 1512955

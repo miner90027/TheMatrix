@@ -1,0 +1,13 @@
+name = "Create: Stam1o Tweaks"
+filename = "Stam1oCreateTweaks-1.0.8+1.21.1-Neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b53cf39b5f0e1e5352e632dd84e89b846ee72d3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6816581
+project-id = 1237495

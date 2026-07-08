@@ -1,0 +1,13 @@
+name = "Jackpot"
+filename = "jackpot-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f588f24d1797c4988a619f9404a8b192e4e202b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8367674
+project-id = 1424966

@@ -1,0 +1,13 @@
+name = "Bobby ReNeoForged [Unofficial Port]"
+filename = "bobby_reneoforged-5.2.4-0.3+mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbcd02b41d4615c5f868b07e50d87e4702883871"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8292882
+project-id = 1538660

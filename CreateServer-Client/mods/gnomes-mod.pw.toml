@@ -1,0 +1,13 @@
+name = "Gnomes!"
+filename = "gnomes-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8F9q8ekS/versions/zOeEnAKx/gnomes-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "52273828863e3faf3647bffc2f3df131cd7ebb8017f8ce1fa67bc26d6405aee2f5738f13c11ccc87a440b22b1aa3a7769152bbbcb58ca3760364424301db52c4"
+
+[update]
+[update.modrinth]
+mod-id = "8F9q8ekS"
+version = "zOeEnAKx"

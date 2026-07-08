@@ -1,0 +1,13 @@
+name = "Xaero Train Map"
+filename = "xaerotrainmap-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b9d3a53247b2f3977e32b246be5aeb131504eae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6702496
+project-id = 1295594

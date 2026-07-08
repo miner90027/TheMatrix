@@ -1,0 +1,13 @@
+name = "Create Accessories Compat"
+filename = "Create-Accessories-Compat.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2MhMVi7C/versions/2r7hvkCQ/Create-Accessories-Compat.jar"
+hash-format = "sha512"
+hash = "0e432b1154589ede7ceff167f97e3dde387b72e76c058851b372853a9a884e5150db19023c1d79369bc7973cbf43f180a9c501202c6e3843a991d9706ad934dd"
+
+[update]
+[update.modrinth]
+mod-id = "2MhMVi7C"
+version = "2r7hvkCQ"

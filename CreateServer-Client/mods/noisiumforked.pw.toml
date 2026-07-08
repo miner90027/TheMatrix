@@ -1,0 +1,13 @@
+name = "NoisiumForked"
+filename = "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "420b3a234d8f83fa6b24d8dd26333b6256af7911"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7569595
+project-id = 1357563

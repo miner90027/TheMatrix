@@ -1,0 +1,13 @@
+name = "CreateServer - Client"
+author = "Miner90027"
+version = "3.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ebd4596d7061908ac15432c542b32bc89e97fa218669573ebdc0f1286790687f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

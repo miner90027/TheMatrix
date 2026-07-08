@@ -1,0 +1,13 @@
+name = "Shuffle"
+filename = "shuffle-neoforge-21.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "938ed7b2a2a1a160e33bd97b8a2dff0aa3a22fd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563700
+project-id = 360916
