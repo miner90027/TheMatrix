@@ -1,6 +1,6 @@
 name = "Cool Rain Reforged"
 filename = "coolrain-1.21.1-NeoForge-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

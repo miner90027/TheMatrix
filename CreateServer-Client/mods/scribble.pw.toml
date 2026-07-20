@@ -1,6 +1,6 @@
 name = "Scribble"
 filename = "Scribble-1.5.1+mc1.21-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6240188
 project-id = 1051344
+
+[option]
+optional = true
+description = "Makes it much easier to format text and write in books."
+default = true

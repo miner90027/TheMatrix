@@ -1,6 +1,6 @@
 name = "Bobby ReNeoForged [Unofficial Port]"
 filename = "bobby_reneoforged-5.2.4-0.3+mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

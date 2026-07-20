@@ -1,6 +1,6 @@
 name = "Not Enough Animations"
 filename = "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8274908
 project-id = 433760
+
+[option]
+optional = true
+description = "Adds some fun animations to the player models. Particularly good if also using the First Person mod."
+default = true

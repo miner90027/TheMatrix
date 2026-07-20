@@ -1,6 +1,6 @@
 name = "Simple Weather"
 filename = "simple_weather-1.0.13-hotfix.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

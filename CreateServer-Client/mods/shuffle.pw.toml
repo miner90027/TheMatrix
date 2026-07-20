@@ -1,6 +1,11 @@
 name = "Shuffle"
 filename = "shuffle-neoforge-21.1.0.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Allows you to toggle auto shuffling between the building blocks in your hotbar. Usefull for adding random variation when building."
+default = true
 
 [download]
 hash-format = "sha1"

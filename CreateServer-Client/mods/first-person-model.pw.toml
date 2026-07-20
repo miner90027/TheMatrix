@@ -1,6 +1,10 @@
 name = "First-person Model"
 filename = "firstperson-neoforge-2.7.2-mc1.21.1.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Allows you to see your body in first person."
 
 [download]
 hash-format = "sha1"
