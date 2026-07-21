@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 description = "Allows you to see your body in first person."
+default = true
 
 [download]
 hash-format = "sha1"
