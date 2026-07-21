@@ -814,6 +814,11 @@ hash = "5a73fcc5300216f4495215fa182638c01771e916dbd6eef4da16953786b0cd6e"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
@@ -873,4 +878,4 @@ hash = "df863c78dd7c274e110dbbac1279b00c816f78c684a07c546da300ce9e1327c6"
 
 [[files]]
 file = "unsup.toml"
-hash = "2fa572e87f8d02ceabaebe7c15a088f6263dfbb3d559878a31a4cc7f60da6922"
+hash = "76a8aff9328b6be37eb1c475968ac8d59dd3a524ef3e2210172e369b8061259f"
