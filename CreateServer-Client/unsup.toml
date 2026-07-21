@@ -56,8 +56,8 @@ flavors = "xaero"
 
 
 [flavor_groups.particles]
-name= "Pretty Particles"
-description = "Adds some new particles and makes vanilla ones more pretty."
+name= "Particle Enhancements"
+description = "Overhauls the particle effects and makes things feel more immersive."
 side= "client"
 
 [[flavor_groups.particles.choices]]
@@ -67,12 +67,13 @@ description= "Install all particle enhancing mods. Makes things look very bonita
 
 [[flavor_groups.particles.choices]]
 id="particles_reduced"
-name="Reduced"
-description="Adds a singular mod that reduces the Weather particles."
+name="Vanilla+"
+description="Reduces the particles from weather events, adds wakes &amp; splashes, &amp; gives explosions a cleaner look."
 
 [[flavor_groups.particles.choices]]
 id= "vanilla_particles"
 name = "Vanilla"
+description = "Install none of the particle enhancements &amp; keep particles vanilla."
 
 [metafile.particle-core]
 flavors = "particles_fancy"
@@ -82,8 +83,11 @@ flavors = "particles_fancy"
 flavors = "particles_fancy"
 [metafile.particle-interactions]
 flavors = "particles_fancy"
+
 [metafile.wakes-reforged]
-flavors = "particles_fancy"
+flavors = ["particles_fancy", "particles_reduced"]
+[metafile.explosive-enhancement-neoforge]
+flavors = ["particles_fancy", "particles_reduced"]
 
 [metafile.simple-weather]
 flavors = "particles_reduced"
