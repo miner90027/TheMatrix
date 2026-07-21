@@ -1,26 +1,104 @@
+[flavor_groups.viewer]
+name = "Recipe Viewer"
+description = "Recipe viewer mod to use. EMI (with the TMRV compat layer) is more
+performant, more customizable and has more features, and allows faster load times
+by loading data on world load. JEI has more commonly used direct compatability
+instead of requiring a universal compat layer mod."
+side = "both"
+
+[[flavor_groups.viewer.choices]]
+id = "viewer_emi"
+name = "EMI+TMRV"
+description = "Installs EMI and TMRV."
+
+[[flavor_groups.viewer.choices]]
+id = "viewer_jei"
+name = "JEI"
+description = "Installs JEI."
+
+[metafile.emi]
+flavors = "viewer_emi"
+[metafile.tmrv]
+flavors = "viewer_emi"
+[metafile.jei]
+flavors = "viewer_jei"
+
+
+
+[flavor_groups.map]
+name = "Mini-map and World Map Mods"
+description = "Adds a mini-map &amp; worldmap with waypoints. Usefull for exploring and marking areas of interest. Especially good for marking your base and others to find your way around."
+side = "both"
+[[flavor_groups.map.choices]]
+id = "journeymap"
+name = "Journey Map"
+description = "Installs Journeymap. Due to how the Server is configured, Xaero's is required to be installed on the client. If you don't want to use Xaero's, simply turn off the mini-map &amp; waypoints binding in-game."
+[[flavor_groups.map.choices]]
+id = "xaero"
+name = "Xaero"
+description = "Installs Xaero's Mini &amp; World maps."
+
+[metafile.journeymap]
+flavors = "journeymap"
+[metafile.journeymap-waypoint-syncing]
+flavors = "journeymap"
+
+[metafile.xaeros-minimap]
+flavors = ["xaero", "journeymap"]
+[metafile.xaeros-world-map]
+flavors = ["xaero", "journeymap"]
+[metafile.xaero-train-map]
+flavors = ["xaero", "journeymap"]
+
+
+
 [flavor_groups.particles]
 name= "Pretty Particles"
 description = "Adds some new particles and makes vanilla ones more pretty."
 side= "client"
-[[flavor_groups.particles.choices]]
-id="particles_on"
-name="Fancy"
-description="Install all particle enhancing mods"
-[[flavor_groups.particles.choices]]
-id="particles_off"
-name="Vanilla"
-description="No new particles, which can increase lag. Installs one mod that does reduce weather particles."
 
+[[flavor_groups.particles.choices]]
+id= "particles_fancy"
+name= "Fancy"
+description= "Install all particle enhancing mods. Makes things look very bonita. Can increase lag on lower-end devices. Especially when breaking or placing large amounts of blocks."
+
+[[flavor_groups.particles.choices]]
+id="particles_reduced"
+name="Reduced"
+description="Adds a singular mod that reduces the Weather particles."
+
+[[flavor_groups.particles.choices]]
+id= "vanilla_particles"
+name = "Vanilla"
 
 [metafile.particle-core]
-flavors = "particles_on"
+flavors = "particles_fancy"
 [metafile.particle-effects]
-flavors = "particles_on"
+flavors = "particles_fancy"
 [metafile.particle-rain]
-flavors = "particles_on"
+flavors = "particles_fancy"
 [metafile.particle-interactions]
-flavors = "particles_on"
+flavors = "particles_fancy"
 [metafile.wakes-reforged]
-flavors = "particles_on"
+flavors = "particles_fancy"
+
 [metafile.simple-weather]
-flavors = "particles_off"
+flavors = "particles_reduced"
+
+
+
+[flavor_groups.sounds]
+name= "Sound Enhancements"
+description = "Installs the Sound Phyisics and Presence Footstep mods. Combined, these mods overhaul how the game handles sounds."
+
+[[flavor_groups.sounds.choices]]
+id= "sounds_on"
+name= "yes"
+[[flavor_groups.sounds.choices]]
+id= "sounds_off"
+name= "no"
+
+[metafile.sound-physics-remastered]
+flavors= "sounds_on"
+[metafile.presence-footsteps-neoforge]
+flavors= "sounds_on"
