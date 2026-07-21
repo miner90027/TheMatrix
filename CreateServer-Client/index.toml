@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "diy.y2k.unsup.json"
+hash = "63f7ef14b8e6e0055f9cc72643e288a578ae766f8aac14241bda7a7d937d25cf"
+
+[[files]]
 file = "icon.png"
 hash = "fa05eb3449ecefe16a8e9502581642c3bb779ce2b10fa20eb507b56a716a8524"
 
@@ -65,11 +69,6 @@ hash = "fcadcc088675cf866ea08c4c1bbd11adccb21b1e0fe9715c37ff7f88d9a96716"
 metafile = true
 
 [[files]]
-file = "mods/beautified-chat-server.pw.toml"
-hash = "5d5cc9d5bfbd990e737c4c9f2f7e33bd61a9a75a706aa71aeaacda4fb500fa89"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
@@ -85,13 +84,8 @@ hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "434a7b340624e0e0cd3229d24c4816ca1acfbd4980136a0096197bced54cf884"
-metafile = true
-
-[[files]]
 file = "mods/bobby-reneoforged.pw.toml"
-hash = "8848d41a90288fe38c34c18ffb15fee29510a269c8b07c514e406ae36ace7c6f"
+hash = "dac5c2bfdf682c7c018726f9174043012bbc04ecf5dfc1bff125c446f44f27a8"
 metafile = true
 
 [[files]]
@@ -155,13 +149,18 @@ hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "43bcf45b566a8e01267e0dbe70bc2756784c61104f6054b2383213c914b773c6"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
-hash = "5a46cbcb6b8aa31aeb63f7e32848000d8897bf36acb033632f9caefd34de3f28"
+hash = "17eb4e50967380f46acc5076f71ec59049311a2578bdfa089169ab297c868f26"
 metafile = true
 
 [[files]]
@@ -212,11 +211,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
-metafile = true
-
-[[files]]
-file = "mods/create-bluemap.pw.toml"
-hash = "83d97f7c3836a9b197c9d0f86e4fae8481b84a96743a407a0b0575484ac1ce2d"
 metafile = true
 
 [[files]]
@@ -406,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "85f4699d7683506184d7aff9ea737a620efa0974e9dff30eecc22530cc1cca45"
+hash = "38e2d4a5c7612dc78e33ffb4939751427447e0753a4ab8923260565e30637d9b"
 metafile = true
 
 [[files]]
@@ -511,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "117199d283be39d3dae67f00f865ecccf8df8d1d81396e94902386ba6ab5dfce"
+hash = "be78653a73c496894c51f2614bfc449c58fd90efb3ff59c9cdc48ccef356163f"
 metafile = true
 
 [[files]]
@@ -601,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
+hash = "188bb89176b62cacbaaf615698b7f02ede2eb2cba1e9a20281c9eabf698148c6"
 metafile = true
 
 [[files]]
@@ -616,12 +610,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+hash = "8c29843ea8daff8f4e2db30292a690de72ca5cfb52732e5bd0ea76a365923da0"
 metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "c2749df96a9eef1182b6d298ce036bbb72a9df09f24bd56830da8064d405d0b0"
+hash = "92cb4da742130f8d3908fe2321e608257c2242743d970cc45cbbb262caba118b"
 metafile = true
 
 [[files]]
@@ -631,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "2253cddf1e9a3778a893e47442378fdeea5b5604bc131b61acfcd25d1e690613"
+hash = "e978a7103f350ad94ec62040fbe93b5499f6678ae0930030552e4e3058346cef"
 metafile = true
 
 [[files]]
@@ -651,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
+hash = "f90a8a7a49423acc35b69a88a1628a3717f3563e02d2256894b13b7aaf9831c8"
 metafile = true
 
 [[files]]
@@ -716,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/scribble.pw.toml"
-hash = "3e4d54b059c5a1be2c036950d3f31b4b477b1f2f7bb5a4a99348a6919052d4fb"
+hash = "dd9b5bc7968524050d02dbd49f4b98fb7f072057fc90d8f0befbc452a483a8b7"
 metafile = true
 
 [[files]]
@@ -741,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/shuffle.pw.toml"
-hash = "5bf337426a2d17721a05f611e4fb5bede13296703848b8fc7a84d3d538988d68"
+hash = "af01b86add518f51d0036ee48e4c0a16865a62d86f4259b102faa154c93e6e61"
 metafile = true
 
 [[files]]
@@ -756,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-weather.pw.toml"
-hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
+hash = "1cc83a60ca5be9a535f945bb4449443a476d193cc83dba899e358b319e576a29"
 metafile = true
 
 [[files]]
@@ -791,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "09c393b303130cefffc1c376ddfdeb869b20db31d3d42d9fa155e13cfc628645"
 metafile = true
 
 [[files]]
@@ -846,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "45f2716f6f9df0cfbe1bb7220639fce697452dbbaf8c7b45a283667c90685104"
+hash = "a4936281b7fdf6005961596c6f2b952c8f1bc62b16138630492b57aa0629366c"
 metafile = true
 
 [[files]]
@@ -872,3 +866,11 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "67e64d05029b550483710adb5e2ef0357464a77fd1f8f1ce5bb37257919ba67c"
+
+[[files]]
+file = "unsup.ini"
+hash = "df863c78dd7c274e110dbbac1279b00c816f78c684a07c546da300ce9e1327c6"
+
+[[files]]
+file = "unsup.toml"
+hash = "2fa572e87f8d02ceabaebe7c15a088f6263dfbb3d559878a31a4cc7f60da6922"
