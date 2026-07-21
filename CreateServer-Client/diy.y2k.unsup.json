@@ -1,0 +1,12 @@
+{
+    "formatVersion": 1,
+    "name": "unsup",
+    "uid": "diy.y2k.unsup",
+    "version": "${version}",
+    "+agents": [
+        {
+            "name": "diy.y2k:unsup:${version}",
+            "url": "https://repo.sleeping.town"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[flavor_groups.particles]
+name= "Pretty Particles"
+description = "Adds some new particles and makes vanilla ones more pretty."
+side= "client"
+[[flavor_groups.particles.choices]]
+id="particles_on"
+name="Fancy"
+description="Install all particle enhancing mods"
+[[flavor_groups.particles.choices]]
+id="particles_off"
+name="Vanilla"
+description="No new particles, which can increase lag. Installs one mod that does reduce weather particles."
+
+
+[metafile.particle-core]
+flavors = "particles_on"
+[metafile.particle-effects]
+flavors = "particles_on"
+[metafile.particle-rain]
+flavors = "particles_on"
+[metafile.particle-interactions]
+flavors = "particles_on"
+[metafile.wakes-reforged]
+flavors = "particles_on"
+[metafile.simple-weather]
+flavors = "particles_off"
