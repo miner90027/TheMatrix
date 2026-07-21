@@ -874,7 +874,7 @@ hash = "67e64d05029b550483710adb5e2ef0357464a77fd1f8f1ce5bb37257919ba67c"
 
 [[files]]
 file = "unsup.ini"
-hash = "df863c78dd7c274e110dbbac1279b00c816f78c684a07c546da300ce9e1327c6"
+hash = "86238aa56311cbb262036c599105cfc041dddf26bd8b4ef0afd62a67db330d10"
 
 [[files]]
 file = "unsup.toml"
