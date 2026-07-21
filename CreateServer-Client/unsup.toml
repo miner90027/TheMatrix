@@ -32,23 +32,26 @@ side = "both"
 [[flavor_groups.map.choices]]
 id = "journeymap"
 name = "Journey Map"
-description = "Installs Journeymap. Due to how the Server is configured, Xaero's is required to be installed on the client. If you don't want to use Xaero's, simply turn off the mini-map &amp; waypoints binding in-game."
+description = "Installs Journeymap."
 [[flavor_groups.map.choices]]
 id = "xaero"
 name = "Xaero"
 description = "Installs Xaero's Mini &amp; World maps."
+[[flavor_groups.map.choices]]
+id = "noMap"
+name= "None"
+description= "Does not install any mini-map or worldmap mods."
 
 [metafile.journeymap]
 flavors = "journeymap"
 [metafile.journeymap-waypoint-syncing]
 flavors = "journeymap"
-
 [metafile.xaeros-minimap]
-flavors = ["xaero", "journeymap"]
+flavors = "xaero"
 [metafile.xaeros-world-map]
-flavors = ["xaero", "journeymap"]
+flavors = "xaero"
 [metafile.xaero-train-map]
-flavors = ["xaero", "journeymap"]
+flavors = "xaero"
 
 
 
