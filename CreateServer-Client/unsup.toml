@@ -89,7 +89,7 @@ flavors = "particles_reduced"
 
 [flavor_groups.sounds]
 name= "Sound Enhancements"
-description = "Installs the Sound Phyisics and Presence Footstep mods. Combined, these mods overhaul how the game handles sounds."
+description = "Installs the Sound Phyisics, Presence Footsteps, and Cool Rain mods. Combined, these mods overhaul how the game handles sounds. They add some new sounds and make existing ones sound even better."
 
 [[flavor_groups.sounds.choices]]
 id= "sounds_on"
@@ -101,4 +101,6 @@ name= "no"
 [metafile.sound-physics-remastered]
 flavors= "sounds_on"
 [metafile.presence-footsteps-neoforge]
+flavors= "sounds_on"
+[metafile.cool-rain-reforged]
 flavors= "sounds_on"
