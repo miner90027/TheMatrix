@@ -1,0 +1,13 @@
+name = "Presence Footsteps x Sable (Aeronautics Compat)"
+filename = "pfsable-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZAhKrMSS/versions/Mnm18kQK/pfsable-1.0.jar"
+hash-format = "sha512"
+hash = "d108f26e092e1d973a8d5bff756974a8a5b6af2ac21e44f616338285c083a93a52a91fee9c506ffab950bb6de1afded5b7a05ddede56f19ee4b46d43eccd13f0"
+
+[update]
+[update.modrinth]
+mod-id = "ZAhKrMSS"
+version = "Mnm18kQK"
