@@ -1,0 +1,18 @@
+name = "Light Level Overlay"
+filename = "lightleveloverlay-neoforge-1.3.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtejCXCP/versions/VIrCF31o/lightleveloverlay-neoforge-1.3.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "16b6a17889b9154f67aa87bd1a0f91afb903e3e3d9d634d7dcc60afc3c9c9db4cf65ecaad8df459ef15135411741b028c696e3d03b58eead5c1da588ebbb1aed"
+
+[update]
+[update.modrinth]
+mod-id = "wtejCXCP"
+version = "VIrCF31o"
+
+[option]
+optional = true
+description = "Adds a keybind that brings up an overlay showing the light level of blocks. Extreemely usefull when spawn proofing builds and areas. It shows exactly where mobs can spawn, no more guessing or torch spam."
+default = true
