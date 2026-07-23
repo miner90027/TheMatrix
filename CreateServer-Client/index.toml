@@ -435,6 +435,11 @@ hash = "e5cd9b046e56e0b547cdaeb5bd85d03dacae82b3b4a2394ea7b9175a952dc1ae"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
+hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
 metafile = true
@@ -482,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/jackpot.pw.toml"
 hash = "8eee1de8b0810152f00a4156ab2b2646ead13d7a993d915c54d928bd281b5ba3"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "9728776375b66d2b4a450238373072873ed0e50596e95fca857368726f38ecb3"
 metafile = true
 
 [[files]]
@@ -645,6 +655,11 @@ hash = "f90a8a7a49423acc35b69a88a1628a3717f3563e02d2256894b13b7aaf9831c8"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-x-sable.pw.toml"
+hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -702,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+metafile = true
+
+[[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
 metafile = true
 
 [[files]]
@@ -790,6 +810,11 @@ hash = "7e3bead730c077ab6ff936e48ec95c9d0ce89bb0bb4b1dfcd9d76a7f01b0bd3f"
 metafile = true
 
 [[files]]
+file = "mods/stonecutter-damage.pw.toml"
+hash = "cfaf49eafc97c42521ce937cca9edda143838bfe45a6650ed76d792903695aa0"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "770d04b5496fa2aeed58311df28729813b47c1573b8a6d3f1b278ddd88bd8d3b"
 metafile = true
@@ -874,4 +899,4 @@ hash = "454bedbb2b29144c5d21f64b8f226112065967ff47206fd1798258233119b0a8"
 
 [[files]]
 file = "unsup.toml"
-hash = "5b4fd1958c0a13d433c35b64cbb3ff2bd0251c1e1b899e32747af947d4b8b7b9"
+hash = "e57888571eba66ff06280bd48fcc21dde59846d9dd4259f16e5b1eb1222c147e"
