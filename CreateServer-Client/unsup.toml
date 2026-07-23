@@ -57,6 +57,7 @@ description = "Does not install any mini-map or worldmap mods."
 flavors = "journeymap"
 [metafile.journeymap-waypoint-syncing]
 flavors = "journeymap"
+
 [metafile.xaeros-minimap]
 flavors = "xaero"
 [metafile.xaeros-world-map]
@@ -125,4 +126,6 @@ flavors = "sounds_on"
 [metafile.presence-footsteps-neoforge]
 flavors = "sounds_on"
 [metafile.cool-rain-reforged]
+flavors = "sounds_on"
+[metafile.presence-footsteps-x-sable]
 flavors = "sounds_on"
