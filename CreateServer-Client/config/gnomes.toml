@@ -1,0 +1,55 @@
+["Gnome Behavior"]
+	#Enable gnomes teleporting away when hit (like endermen)
+	teleportOnHitEnabled = true
+	#Chance for gnome to teleport when hit (1 in X chance, default 8 = 12.5% chance)
+	# Default: 8
+	# Range: 1 ~ 100
+	teleportChance = 8
+	#Chance for gnome to disguise as a passive mob after teleporting (1 in X chance, default 5 = 20% chance)
+	#Set to 1 to always disguise, or a high number like 100 to rarely disguise
+	# Default: 5
+	# Range: 1 ~ 100
+	teleportDisguiseChance = 5
+	#Enable gnomes becoming supercharged when struck by lightning
+	superchargeEnabled = true
+
+["Loot Categories"]
+	#Toggle different categories of loot drops from gnomes
+	#Enable common item drops (sticks, coal, wheat, etc.)
+	lootCommonItems = true
+	#Enable uncommon item drops (ingots, gems, cooked food, dyes)
+	lootUncommonItems = true
+	#Enable rare item drops (diamonds, nether stars, special food, tools)
+	lootRareItems = true
+	#Enable very rare/legendary drops (netherite, elytra, totems, music discs, armor trims, pottery sherds)
+	lootVeryRareItems = true
+	#Enable joke/useless item drops (poisonous potato, rotten flesh, etc.)
+	lootJokeItems = true
+	#Enable common block drops (dirt, cobblestone, planks, logs)
+	lootCommonBlocks = true
+	#Enable uncommon block drops (stone variants, bricks, wool, terracotta, concrete)
+	lootUncommonBlocks = true
+	#Enable rare block drops (ore blocks, obsidian, nether/ocean blocks)
+	lootRareBlocks = true
+	#Enable very rare block drops (beacon, enchanting table, etc.)
+	lootVeryRareBlocks = true
+	#Enable Create mod item drops (requires Create mod to be installed)
+	lootCreateItems = true
+	#Enable Supplementaries mod item drops (requires Supplementaries mod to be installed)
+	lootSupplementariesItems = true
+	#Enable Artifacts mod item drops (requires Artifacts mod to be installed)
+	lootArtifactsItems = true
+
+["Spawn Egg Drops"]
+	#Configure spawn egg drops when gnomes are killed by players
+	#Enable spawn egg drops from gnomes (master toggle)
+	spawnEggsEnabled = true
+	#Allow passive mob spawn eggs (cows, pigs, chickens, villagers, etc.)
+	spawnEggsPassive = true
+	#Allow neutral mob spawn eggs (endermen, spiders, wolves, iron golems, etc.)
+	spawnEggsNeutral = true
+	#Allow hostile mob spawn eggs (zombies, skeletons, creepers, etc.)
+	spawnEggsHostile = true
+	#Allow boss spawn eggs (Warden, Wither)
+	#WARNING: These can be very dangerous! Enable at your own risk!
+	spawnEggsBoss = false

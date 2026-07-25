@@ -1,0 +1,17 @@
+[server]
+	#
+	#Whether to prevent the Dealer from selling potions with no effects.
+	prevent_empty_potions = true
+	#
+	#Determine what potion list is used.
+	#Exclusion will add the potions in the Whitelist, and remove potions from the Whitelist using the Blacklist.
+	#Allowed Values: NONE, WHITELIST, BLACKLIST, EXCLUSION
+	potion_list_mode = "NONE"
+	#
+	#List of allowed effects or mod IDs.
+	#Examples: "minecraft:speed", "minecraft:regeneration", "jackpot", "minecraft"
+	potion_whitelist = []
+	#
+	#List of blocked effects or mod IDs.
+	#Examples: "minecraft:poison", "minecraft:slowness", "jackpot", "minecraft"
+	potion_blacklist = []

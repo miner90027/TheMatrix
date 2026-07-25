@@ -1,0 +1,14 @@
+#Interval between train updates
+# Default: 5
+# Range: 1 ~ 30
+interval = 5
+#Interval between track updates
+# Default: 30
+# Range: 10 ~ 240
+interval_tracks = 30
+#Whether to render tracks
+renderTracks = true
+#Whether to render carriages
+renderCarriages = true
+#Whether to render trains
+renderTrains = true
