@@ -1,13 +1,13 @@
 name = "Create Big Cannons: Going Ballistic"
-filename = "cbc_going_ballistic-0.2.1.jar"
+filename = "cbc_going_ballistic-0.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5d292959b40d639ef64947c1d40d2b9a363346ff"
+hash = "7a7086e61f40ec3deff85e3806ae5e0bd8853b82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8171515
+file-id = 8486876
 project-id = 1541510

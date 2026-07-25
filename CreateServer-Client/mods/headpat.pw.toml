@@ -1,6 +1,7 @@
 name = "Headpat a Friend!"
 filename = "headpats-1.0.6+1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/vETxChiy/versions/s4qXNcqK/headpats-1.0.6%2B1.21.1.jar"

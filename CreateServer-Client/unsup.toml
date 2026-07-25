@@ -24,8 +24,6 @@ description = "Does not install any recipe viewer. Why would you do this? You wi
 
 [metafile.emi]
 flavors = "viewer_emi"
-[metafile.tmrv]
-flavors = "viewer_emi"
 [metafile.jei]
 flavors = "viewer_jei"
 
