@@ -215,6 +215,11 @@ hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroportals.pw.toml"
+hash = "f6c7bb36acff67b6e619fe80e7051f7d753c30cdacc440a12917fbc6f1ccbf65"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-going-ballistic.pw.toml"
 hash = "bf9aca1b4af00e2add92bfc21e29568aedf1ba0f20f3c8d3ea72bee969b4b324"
 metafile = true
