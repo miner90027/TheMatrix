@@ -80,6 +80,11 @@ hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/bobby-reneoforged.pw.toml"
 hash = "dac5c2bfdf682c7c018726f9174043012bbc04ecf5dfc1bff125c446f44f27a8"
 metafile = true
