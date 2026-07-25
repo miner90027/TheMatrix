@@ -1,0 +1,13 @@
+name = "Create: Sable Train Overlay Compat (Aeronautics)"
+filename = "create_sable_overlay_compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EeuYFXai/versions/F1kMbQ2C/create_sable_overlay_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "805170df375465b2c16494ee51674119a0e392dc7912604f942235ded98d6faf3022c0fcf9864997bb597b20ae33dec7963946080a3ddf25444a49dab12bc779"
+
+[update]
+[update.modrinth]
+mod-id = "EeuYFXai"
+version = "F1kMbQ2C"
