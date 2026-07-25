@@ -1,0 +1,13 @@
+name = "Carry Me"
+filename = "carryme-1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TqKRgEs9/versions/mmMdwgZH/carryme-1.0-neoforge.jar"
+hash-format = "sha512"
+hash = "27dae9844f12c4a7b816d19ba39ce2fb2e5c2f681508cd328e61d562a534b5fc9c2ea3780d5051644d0a4d2f38d6c90c10c9a6223b9b961ed396312e3eeb8fcd"
+
+[update]
+[update.modrinth]
+mod-id = "TqKRgEs9"
+version = "mmMdwgZH"
