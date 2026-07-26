@@ -59,8 +59,6 @@ description = "Does not install any mini-map or worldmap mods."
 
 [metafile.journeymap]
 flavors = "journeymap"
-[metafile.journeymap-waypoint-syncing]
-flavors = "journeymap"
 
 [metafile.xaeros-minimap]
 flavors = "xaero"

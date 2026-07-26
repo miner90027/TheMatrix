@@ -1264,11 +1264,6 @@ hash = "679daef751fe49e6b71d376869696ca98782f0c855a17968ce7b758a1920ab5a"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-waypoint-syncing.pw.toml"
-hash = "536a9e8e21392cf20777913235a2f7a4782bbc91035b282335a5c31dc38d2e13"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "263dd010581defe135d9784c8fea974e51ecd6288f7001faf41e8efaf80d4ace"
 metafile = true
@@ -1658,4 +1653,4 @@ hash = "454bedbb2b29144c5d21f64b8f226112065967ff47206fd1798258233119b0a8"
 
 [[files]]
 file = "unsup.toml"
-hash = "d6665825ebcf6bd527fb31217afbd6a67f779dd0ac3a4dca47aabf8b570bc5a4"
+hash = "c8ea1d17ba0f52943780ae254aa6d82043f50035f84233017a7044b3942effcd"
