@@ -1450,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "37fb00417beec6c2f4ef52c33793b17bfcb561908e4564994fb45d83450e398b"
+hash = "ba573539d70db480da5e709574eff9efd9b76640c65e5cff3386236e59be8ce0"
 metafile = true
 
 [[files]]
