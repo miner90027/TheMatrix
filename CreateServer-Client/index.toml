@@ -694,7 +694,7 @@ hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
 
 [[files]]
 file = "config/trmt.json"
-hash = "90bac8c00087ad828916bb2d7d1862484dbc898ca9a19d183579813d702d9c39"
+hash = "4597eeeb8f2f8ddbc3dbe546fa2357239ab5d1e149a7f73b17c189e43e339271"
 
 [[files]]
 file = "config/undergroundworlds-common.toml"
