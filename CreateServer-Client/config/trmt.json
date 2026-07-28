@@ -12,9 +12,9 @@
     "sandEnabled": true
   },
   "erosionMultipliers": {
-    "player": 0.25,
-    "mounted": 1.0,
-    "leash": 0.75
+    "player": 0.05,
+    "mounted": 0.20,
+    "leash": 0.15
   },
   "erosionThresholds": {
     "grass": {

@@ -694,7 +694,7 @@ hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
 
 [[files]]
 file = "config/trmt.json"
-hash = "90bac8c00087ad828916bb2d7d1862484dbc898ca9a19d183579813d702d9c39"
+hash = "4597eeeb8f2f8ddbc3dbe546fa2357239ab5d1e149a7f73b17c189e43e339271"
 
 [[files]]
 file = "config/undergroundworlds-common.toml"
@@ -999,6 +999,11 @@ hash = "372f992cc0bbd5120fb02e66ffa01e7cc507f92aa1aad8b6da3e46818da679e5"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
 metafile = true
@@ -1260,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "679daef751fe49e6b71d376869696ca98782f0c855a17968ce7b758a1920ab5a"
+hash = "da9be0546df74454a23be94eebebb4a1e6590ee9d20b1c030971751ec5ca8612"
 metafile = true
 
 [[files]]
@@ -1653,4 +1658,4 @@ hash = "454bedbb2b29144c5d21f64b8f226112065967ff47206fd1798258233119b0a8"
 
 [[files]]
 file = "unsup.toml"
-hash = "c8ea1d17ba0f52943780ae254aa6d82043f50035f84233017a7044b3942effcd"
+hash = "fec6d9328160dd9d89e4575a92b5c5b8b71e9dcd07471603bced875d52bd4236"

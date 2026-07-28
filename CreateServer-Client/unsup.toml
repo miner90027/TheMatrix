@@ -1,39 +1,4 @@
 #######################################
-###          Recipe Viewer          ###
-#######################################
-
-[flavor_groups.viewer]
-description = "Recipe viewer mod to use. EMI (with the TMRV compat layer) is more performant, more customizable and has more features, and allows faster load times by loading data on world load. JEI has more commonly used direct compatability instead of requiring a universal compat layer mod."
-name = "Recipe Viewer"
-side = "both"
-
-[[flavor_groups.viewer.choices]]
-id = "viewer_emi"
-name = "EMI+TMRV"
-description = "Installs EMI and TMRV."
-
-[[flavor_groups.viewer.choices]]
-id = "viewer_jei"
-name = "JEI"
-description = "Installs JEI."
-
-[[flavor_groups.viewer.choices]]
-id = "viewer_none"
-name = "None"
-description = "Does not install any recipe viewer. Why would you do this? You will know nothing, John Snow."
-
-[metafile.emi]
-flavors = "viewer_emi"
-[metafile.jei]
-flavors = "viewer_jei"
-[metafile.just-enough-professions-jep]
-flavors = "viewer_jei"
-[metafile.just-enough-resources-jer]
-flavors = "viewer_jei"
-[metafile.justenoughbreeding]
-flavors = "viewer_jei"
-
-#######################################
 ###        Mini & Wolrd Maps        ###
 #######################################
 
