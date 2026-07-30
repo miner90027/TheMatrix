@@ -1474,6 +1474,11 @@ hash = "d2a11ca24055af25264803197951494e4f81560cb941eac6e3e9d7e64c9cd211"
 metafile = true
 
 [[files]]
+file = "mods/sable-beyond-dynamic-copycats-addon.pw.toml"
+hash = "d027deb24003cf95ff3d18dd99db777d57de89e56731434523621adca402d5ee"
+metafile = true
+
+[[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
 hash = "282654c07a0b3f41387fbe990649148d26b3f9c7c895cd0b43652df3adc78e61"
 metafile = true
@@ -1481,6 +1486,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+metafile = true
+
+[[files]]
+file = "mods/sable_beyond.pw.toml"
+hash = "72817b94a481d4a023a4eb7a3007374a5682ae6ffccbf7dcb5142df2639bf553"
 metafile = true
 
 [[files]]

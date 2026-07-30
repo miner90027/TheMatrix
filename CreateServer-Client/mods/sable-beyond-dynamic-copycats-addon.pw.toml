@@ -1,0 +1,13 @@
+name = "Sable Beyond Dynamic Copycats Addon"
+filename = "sabledyncats-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YNh5ewh1/versions/jGRzHjep/sabledyncats-2.0.0.jar"
+hash-format = "sha512"
+hash = "be5ea3688565619a145e2a89aa527b49a665e4a2fa471681fe632ff235631c9dc2023a051f7f2dd8d3756e16d9a8c8c8e3e3b16319f8d6276b4f34341c5e17da"
+
+[update]
+[update.modrinth]
+mod-id = "YNh5ewh1"
+version = "jGRzHjep"
