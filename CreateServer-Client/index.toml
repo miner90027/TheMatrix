@@ -478,7 +478,7 @@ hash = "9ecf6b05c6ec1394aa757a0c939a3af3971429137f341787a5874441baa286be"
 
 [[files]]
 file = "config/jei-server.toml"
-hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+hash = "5f0bb6170eb2dc2e1d58b40980d91448119cf3de179a62fa66ab97f57e1c11b6"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -610,7 +610,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "486c86526caa0e450787312c8897b9f1d5eafcc8a095254a41abd6997195b2f3"
+hash = "4feb4620b047fabae15d285c03a80b9a276259e4eab68c09dfed28b12043ba00"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnomes-mod.pw.toml"
-hash = "e5cd9b046e56e0b547cdaeb5bd85d03dacae82b3b4a2394ea7b9175a952dc1ae"
+hash = "d7c0c6935959c773e192791964b4fc89aa2de7cedb715ba5d2192609a9dfe4f4"
 metafile = true
 
 [[files]]
