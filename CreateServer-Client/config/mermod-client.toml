@@ -1,5 +1,0 @@
-[Client]
-	#Disable night vision flashing
-	disableNightVisionFlashing = true
-	#Replace swim animation
-	replaceSwimAnimation = true
