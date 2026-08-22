@@ -869,6 +869,11 @@ hash = "e95dae6d96a6fd51e34a470f3950e543434007afb9d07c3adc07507bbea33219"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "aeaf3e980a790f22c302dbc12869d40f6ef77cfbeec2be17d5aeacdf516fc039"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
@@ -951,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeroportals.pw.toml"
 hash = "f6c7bb36acff67b6e619fe80e7051f7d753c30cdacc440a12917fbc6f1ccbf65"
+metafile = true
+
+[[files]]
+file = "mods/create-better-fps.pw.toml"
+hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
 
 [[files]]
