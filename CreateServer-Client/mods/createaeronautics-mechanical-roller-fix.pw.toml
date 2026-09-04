@@ -1,0 +1,13 @@
+name = "Create/Aeronautics Mechanical Roller Fix"
+filename = "create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZaFVfmQW/versions/5jd9tvy6/create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "acc03a18cf4a6cb9534a26a73ec3b798747031461fa45037acb6e720d975aab331d13c07523a8de0b0c9db1b210232ed25e724685195c65aa44f1981a869cfba"
+
+[update]
+[update.modrinth]
+mod-id = "ZaFVfmQW"
+version = "5jd9tvy6"
