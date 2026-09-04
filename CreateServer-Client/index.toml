@@ -944,11 +944,6 @@ hash = "d66f3ca71587c7ab8076f4a0154b0d3aa2f043c29c6373f2b8b2e5d6c3c3e91f"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-mechanical-roller-fix.pw.toml"
-hash = "16c7cc65057f4084cd2cd05c7a82aedf4fe66fe6e820317a06be926c09249764"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
 metafile = true
@@ -1076,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/create_sable_train_overlay_compat.pw.toml"
 hash = "225931d613f9bb64d781c8d9333820afd77a931bee3772160ac7c8739682eb8b"
+metafile = true
+
+[[files]]
+file = "mods/createaeronautics-mechanical-roller-fix.pw.toml"
+hash = "8954513492add2a05fd808480b95be3cfc5cd203d15d4e89e2b4db533a8acfdf"
 metafile = true
 
 [[files]]
@@ -1500,7 +1500,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
 
 [[files]]
