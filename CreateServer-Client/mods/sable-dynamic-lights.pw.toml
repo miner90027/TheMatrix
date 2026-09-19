@@ -1,13 +1,13 @@
 name = "Sable Dynamic Lights (Create: Dynamic Lights fork)"
-filename = "sable-dynamic-lights-1.21.1-1.0.0.jar"
+filename = "sable-dynamic-lights-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "074ed0cfe1de1d27db9bb3c46f212107a4ade842"
+hash = "d0d8d1d47078d7bb617b9665a0fb9383bf84aaea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8301001
+file-id = 8538633
 project-id = 1584370

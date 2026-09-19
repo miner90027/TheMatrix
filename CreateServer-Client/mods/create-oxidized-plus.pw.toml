@@ -1,0 +1,13 @@
+name = "Create: Oxidized plus"
+filename = "Create_oxidized_compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tBWkvao/versions/OA3YlQYo/Create_oxidized_compat.zip"
+hash-format = "sha512"
+hash = "63dbafa16a421522a64ba7da553008a428bc4122ff2e96ab94cd6b07b0f8a4eb941acdc8ae5f74af33ae3202bef79bfb819ea89883768b55f85794e45195608a"
+
+[update]
+[update.modrinth]
+mod-id = "7tBWkvao"
+version = "OA3YlQYo"

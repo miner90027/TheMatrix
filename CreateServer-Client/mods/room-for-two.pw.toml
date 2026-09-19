@@ -1,13 +1,13 @@
 name = "Room For Two"
-filename = "roomfortwo-neoforge-1.21.1-0.2.0.jar"
+filename = "roomfortwo-neoforge-1.21.1-0.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb4ef2909caf6bc58cb7963e662c3a3a8b41215a"
+hash = "8c9f661619108b541b3d15f29e8b02e90bdedef0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8397967
+file-id = 8849195
 project-id = 1548166

@@ -1,0 +1,13 @@
+name = "Big Tires"
+filename = "bigtires-1.0.0-beta3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MWW53CBR/versions/K2JKOkgi/bigtires-1.0.0-beta3.jar"
+hash-format = "sha512"
+hash = "f1b7db6dc9a602d6bdcc2480e85238d92e99bb220181fa009a0c1eba009069f819563b04b8ff3346678a3933a4b2f820a8688301beb89bebc22b8c7a8e75c81c"
+
+[update]
+[update.modrinth]
+mod-id = "MWW53CBR"
+version = "K2JKOkgi"
