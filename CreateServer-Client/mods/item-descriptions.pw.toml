@@ -1,13 +1,13 @@
 name = "Item Descriptions"
-filename = "item-descriptions-1.11+1.21.jar"
+filename = "item_descriptions-2.8.0+1.21.1-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaizcMKP/versions/KEOf5Mq4/item-descriptions-1.11%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/OrkSfQ0u/item_descriptions-2.8.0%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "662e68b6ba3057cf68d104547b6381f157e3071edf3e5763482f5441aa43c44632d2a8961a931efcdf71726d5105dfff190b48fba3ed109ed1ed2f5916cea4ef"
+hash = "395b5b1fdde9b0c2b02322118aae01f901dca624014db64c093e7d6fcada351a73d8c5039af202db3baf3e334a7d997991dad5acede8f30c26c8533aa68461b9"
 
 [update]
 [update.modrinth]
 mod-id = "UaizcMKP"
-version = "KEOf5Mq4"
+version = "OrkSfQ0u"
