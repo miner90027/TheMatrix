@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-neoforge-1.21.1-6.0.1.jar"
+filename = "journeymap-neoforge-1.21.1-6.0.8.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "41989e3f82ab332c242b02253a95e06bcdcfafc1"
+hash = "e964f91ee6319bb1d789a7011e30772907962b90"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8448452
+file-id = 8845359
 project-id = 32274

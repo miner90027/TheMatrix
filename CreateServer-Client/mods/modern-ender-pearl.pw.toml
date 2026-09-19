@@ -1,0 +1,13 @@
+name = "Modern Ender Pearl"
+filename = "modernenderpearl-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ec132074fb13cd2e58e08f84dd75acbc5dbcaa2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8492655
+project-id = 1577327

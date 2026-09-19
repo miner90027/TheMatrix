@@ -1,0 +1,13 @@
+name = "Foxy's Mod"
+filename = "foxysmod-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EUvPAZyz/versions/cH7gqV06/foxysmod-1.4.3.jar"
+hash-format = "sha512"
+hash = "7379f90312deab278d63b2f1dd046f2d0f18967d4015ffdd21b9d50ae4a6f46201397672037598f813521a5e604bb6e1186f054f79df1977b0d59f6be21a5182"
+
+[update]
+[update.modrinth]
+mod-id = "EUvPAZyz"
+version = "cH7gqV06"
