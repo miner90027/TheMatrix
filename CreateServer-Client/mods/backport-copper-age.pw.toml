@@ -1,0 +1,13 @@
+name = "Copper Age Backport"
+filename = "copperagebackport-neoforge-1.21.1-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a1llHwl4/versions/onViygI4/copperagebackport-neoforge-1.21.1-0.1.5.jar"
+hash-format = "sha512"
+hash = "23063089646eb8be4679bc4deefc3cf6656800fa0f5e7c822a7b97619485379a368fdfa96cb04a871fa15b548e0acfe780c5dad022d88f5844648e03e19877c5"
+
+[update]
+[update.modrinth]
+mod-id = "a1llHwl4"
+version = "onViygI4"
