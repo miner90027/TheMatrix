@@ -1323,11 +1323,6 @@ hash = "22f1ac45e20a4704c0b9b5da8f32233142844358af62f5bd351f75317f5e5277"
 metafile = true
 
 [[files]]
-file = "mods/noisiumforked.pw.toml"
-hash = "9c93eb7b597436c3f71fd4c19121633146776c50b7c9b3b06c7dc9441d722da9"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8d7b87e64402322caadb23f2995169f1bc20e9d150dd6106eb1e4eeea9822cfb"
 metafile = true
@@ -1635,6 +1630,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "ef15c0a0a5afcf7b11376da33b893a87b8522bef65bdb36fa17d5d6eea810e9f"
 metafile = true
 
 [[files]]
