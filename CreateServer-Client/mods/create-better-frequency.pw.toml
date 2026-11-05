@@ -1,0 +1,13 @@
+name = "Create: Better Frequency"
+filename = "createbetterfrequency-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bdpczYqs/versions/mlu4WL87/createbetterfrequency-1.0.1.jar"
+hash-format = "sha512"
+hash = "7f79c586cdb1837af7832971b3efb8abf7c837761a6c862f2b20e30da40e178a54b27bc1e7c489fb5e7590cbe8df7a70cf57fe60c107c691f622292e7ef19acc"
+
+[update]
+[update.modrinth]
+mod-id = "bdpczYqs"
+version = "mlu4WL87"
