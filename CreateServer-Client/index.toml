@@ -221,10 +221,6 @@ file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
-file = "config/copperagebackport.json"
-hash = "410faae183c6b92b8b2abb0b61928b35705f01fea5c1c2ba395a2458e11f8325"
-
-[[files]]
 file = "config/copycats-common.toml"
 hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
@@ -1651,4 +1647,4 @@ hash = "454bedbb2b29144c5d21f64b8f226112065967ff47206fd1798258233119b0a8"
 
 [[files]]
 file = "unsup.toml"
-hash = "fec6d9328160dd9d89e4575a92b5c5b8b71e9dcd07471603bced875d52bd4236"
+hash = "49de6c0c2a49c50aad50ab271384b876daaeacb722543792352ef80735a5d2b2"
