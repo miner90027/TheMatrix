@@ -1,18 +1,18 @@
 name = "First-person Model"
-filename = "firstperson-neoforge-2.7.2-mc1.21.1.jar"
+filename = "firstperson-neoforge-2.7.3-mc1.21.1.jar"
 side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6e0be1de6a5aab6cda8496984376a0114cf5a840"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8990482
+project-id = 333287
 
 [option]
 optional = true
 description = "Allows you to see your body in first person."
 default = true
-
-[download]
-hash-format = "sha1"
-hash = "8faf96d7c3c12eaec819b4e273e58c048e8de125"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8294228
-project-id = 333287

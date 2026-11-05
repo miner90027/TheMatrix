@@ -1,13 +1,13 @@
 name = "Areas"
-filename = "areas-1.21.1-6.4.jar"
+filename = "areas-1.21.1-7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc489416ef473ec51a0028471808a846cee53b23"
+hash = "c527fe75c4a7ddd0ba779e76e5881176149202e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8341510
+file-id = 9276950
 project-id = 391701

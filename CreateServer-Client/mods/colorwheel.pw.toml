@@ -1,13 +1,13 @@
 name = "Colorwheel"
-filename = "colorwheel-neoforge-1.3.0-beta3+mc1.21.1.jar"
+filename = "colorwheel-neoforge-1.3.2-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d5a7be61d2262bec535ea365316778f1aef4bfdb"
+hash = "d4d5681fb5f5b1d95a843b7e752ad746a56c4093"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8845482
+file-id = 9427087
 project-id = 1254143
