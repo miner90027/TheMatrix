@@ -96,3 +96,25 @@ flavors = "sounds_on"
 flavors = "sounds_on"
 [metafile.presence-footsteps-x-sable]
 flavors = "sounds_on"
+
+#######################################
+###        View Enhancements        ###
+#######################################
+
+[flavor_groups.view]
+name = "View Enhancements"
+description = "Installs some mods that allow for masive render distances without killing frames. Mods include: \"Bobby\", caches explored chunks and renders them at insane distances. \"Voxy\", A level of detail mod that renders explored chunks at a lower resolution the further away they are. Allows you to view the entire world. \"Roxy\", a translation mod that allows Voxy to run on this version of Minecraft."
+
+[[flavor_groups.view.choices]]
+id = "view_on"
+name = "yes"
+[[flavor_groups.view.choices]]
+id = "view_off"
+name = "no"
+
+[metafile.bobby-reneoforged]
+flavors = "view_on"
+[metafile.voxy]
+flavors = "view_on"
+[metafile.roxy]
+flavors = "view_on"

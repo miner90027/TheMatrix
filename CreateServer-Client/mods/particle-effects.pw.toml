@@ -1,13 +1,13 @@
 name = "Particle Effects"
-filename = "ParticleEffects-1.5.0+1.21.1+neoforge.jar"
+filename = "ParticleEffects-1.6.0+1.21.1+neoforge.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "cda7f6d1f8e164525b41fbb0899eb645c75fe3b9"
+hash = "ebd55d4a790628bc00c241c69756537217246479"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8325471
+file-id = 8948428
 project-id = 1120746

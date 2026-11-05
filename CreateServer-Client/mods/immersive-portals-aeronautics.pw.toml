@@ -1,0 +1,13 @@
+name = "Immersive Portals: Aeronautics"
+filename = "ip_aeronautics-2.8.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aac253b7d2f04b514c041ed1197866a16ca57828"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9435991
+project-id = 1735987
