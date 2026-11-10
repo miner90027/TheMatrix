@@ -8,10 +8,8 @@ Update run.bat & .sh to use the updated neoforge version number
 Delete all mods in the mods folder & upload new versions. 
 
 -------------------------
-Update all...
 
 -- Neoforge & MC --
-21.1.265
 
 -- Data Packs --
 
@@ -20,22 +18,14 @@ Update all...
 
 
 -- Both --
-Redstone Link JEI (GUI)
-Create Better Frequency
-Immersive Portals: Aeronautics
-
+Hands On Delight
 
 kaleidoscope tavern
 kaleidoscope world Liquor
 kaleidoscope contraption
 
 -- Client --
-Better Block Entities
-fast noise (if compatible)
 
-Bobby Reforged
-Roxy
-Voxy (official 1.21.11 version)
 
 -- REMOVE --
-Copperage backport (included in Vanilla backport) -- verify that this doesn't break copper things
+
