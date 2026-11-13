@@ -3,13 +3,19 @@ UPDATE Instructions:
 When updating Neoforge, download new version from website.
 Run installer to a folder & select server version.
 Use terminal to copy the libraries folder to the server.
+
+scp -r -P * libraries miner90027@*:/home/miner90027/backups/crafty/servers/c6ea8265-894a-46da-bcaa-0b44933f27b0/
+
 Update run.bat & .sh to use the updated neoforge version number
+Update Crafty settings to use the new neoforge jar
 
 Delete all mods in the mods folder & upload new versions. 
 
 -------------------------
 
+
 -- Neoforge & MC --
+
 
 -- Data Packs --
 
@@ -19,10 +25,9 @@ Delete all mods in the mods folder & upload new versions.
 
 -- Both --
 Hands On Delight
+Loconautics
+Chimes
 
-kaleidoscope tavern
-kaleidoscope world Liquor
-kaleidoscope contraption
 
 -- Client --
 
