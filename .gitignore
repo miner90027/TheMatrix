@@ -2,7 +2,7 @@
 *.exe
 
 # Exclude exported CurseForge zip files
-*.zip
+Modpack_Imports/*.zip
 
 # Exclude exported Modrinth modpacks
-*.mrpack
+Modpack_Imports/*.mrpack
