@@ -85,6 +85,11 @@ hash = "eb0c1e82baced061d551f83b4be1c9996029d8b6571eca5390bc0eca96b9f7a6"
 metafile = true
 
 [[files]]
+file = "mods/better-capes.pw.toml"
+hash = "659a21e49aed10eeba6055a9a2c6b1ce7b7f5c9f40269a9fb1a93a9aef51da2a"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "c2fd5f53d8ee32c2f7a69959bf4fed00ac7e5ab3568b2bcf5c970a9b3b66969a"
 metafile = true

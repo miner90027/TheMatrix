@@ -118,3 +118,21 @@ flavors = "view_on"
 flavors = "view_on"
 [metafile.roxy]
 flavors = "view_on"
+
+#######################################
+###          Client Capes           ###
+#######################################
+
+[flavor_groups.cape]
+name = "All the Capes"
+description = "Installs the Better Capes mod which allows you to set your cape to any custom cape or any Minecraft capes you do or don't have. Only people with the mod installed will be able to see your custom cape, everyone else will see the cape currently set on your Minecraft account."
+
+[[flavor_groups.cape.choices]]
+id = "cape_on"
+name = "yes"
+[[flavor_groups.cape.choices]]
+id = "cape_off"
+name = "no"
+
+[metafile.better-capes]
+flavors = "cape_on"
