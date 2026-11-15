@@ -27,10 +27,20 @@ Delete all mods in the mods folder & upload new versions.
 Hands On Delight
 Loconautics
 Chimes
+Create: FireFighters
+burnt firefighters
+Create: Grappling Hooks
+Stuff n additions x sable compat
 
+Voxygen (optional if possible. Bundle w/ view enhancements)
+
+Create: Server Optimizer
+Create: Advanced Optimization
+
+Easy Server Optimization 
 
 -- Client --
 
 
 -- REMOVE --
-
+Packet Fixer (redundant w/ ESO)
