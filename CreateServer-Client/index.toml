@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-aeronautics.pw.toml"
-hash = "2cd2fabe2942a55041b855e514f9691b89404db10059cb492a8f8083ddaae65d"
+hash = "826ae103395d77f21bb4b9d15470904e457b4023d87b1c3d4366e617c58ca4d7"
 metafile = true
 
 [[files]]
@@ -897,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/sable-beyond-dynamic-copycats-addon.pw.toml"
 hash = "a8d6b27d3dfed83fff22e3d842f5c32b1bc6513d98aa0a6fb0baf3757eb98f91"
+metafile = true
+
+[[files]]
+file = "mods/sable-cleanup.pw.toml"
+hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
 metafile = true
 
 [[files]]
