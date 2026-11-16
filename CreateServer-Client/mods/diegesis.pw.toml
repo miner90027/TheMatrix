@@ -1,0 +1,13 @@
+name = "Diegesis"
+filename = "diegesis-neoforge-1.21.1-1.0.0-beta.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91648e5e3e562cb1a266bc124b5693c4ff3900cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9624640
+project-id = 1790227

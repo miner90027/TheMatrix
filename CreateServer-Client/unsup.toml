@@ -118,6 +118,8 @@ flavors = "view_on"
 flavors = "view_on"
 [metafile.roxy]
 flavors = "view_on"
+[metafile.voxy-worldgen]
+flavors = "view_on"
 
 #######################################
 ###          Client Capes           ###

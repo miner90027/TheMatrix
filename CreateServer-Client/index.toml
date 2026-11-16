@@ -90,6 +90,11 @@ hash = "659a21e49aed10eeba6055a9a2c6b1ce7b7f5c9f40269a9fb1a93a9aef51da2a"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "421bb187226a76e25fb0650382cf4b3e2824a8a315241ef3d17a6626be0e1580"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "c2fd5f53d8ee32c2f7a69959bf4fed00ac7e5ab3568b2bcf5c970a9b3b66969a"
 metafile = true
@@ -150,6 +155,11 @@ hash = "f8f415b0cb0ddd923ecabd6f4a94e49ed2043ac6fb06761f2f4e1d6e9311e711"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "c8b720dda31f66111e495493a4ead4a2027c67724388a519b1e45b66d46df129"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "4c654385f4096117a6dad60848524f13b01a79752bfb919f2694e65ed8e8589a"
 metafile = true
@@ -161,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -232,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/create-accessories-compat.pw.toml"
 hash = "f590495e4172232ee17436ca97e530fb6fe9c62a2fc3abad91eda799edefcb07"
+metafile = true
+
+[[files]]
+file = "mods/create-advanced-optimization.pw.toml"
+hash = "04dfdffcc8b05c84476e17bf5036bf10424d24b0fcf0cbc532f5c04a9a946e3a"
 metafile = true
 
 [[files]]
@@ -335,6 +350,11 @@ hash = "4744275b4d8f42696051832986adc4b007fcca77dc3a4dda4bb4cd77a946f544"
 metafile = true
 
 [[files]]
+file = "mods/create-grappling-hooks.pw.toml"
+hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
+metafile = true
+
+[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "0bfe281ddfbe98454d57fb2227962065796717739d81a912a075b0c8df232c6b"
 metafile = true
@@ -370,6 +390,11 @@ hash = "ad1f77e1c24b2b07474122e1f14113531cf8fe63b16668e1dbe237920cbf099c"
 metafile = true
 
 [[files]]
+file = "mods/create-server-optimizer.pw.toml"
+hash = "2556bb2d89b956bf9f0d8399d6fb188230137e8fcb8798fd964ffd78cdafe0e4"
+metafile = true
+
+[[files]]
 file = "mods/create-shuffle-filter.pw.toml"
 hash = "e6ce4b0a8c58d8ad284c2c4c2ec19474ef762a6147d1831d4f1954df7741bd3b"
 metafile = true
@@ -382,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "5de4795ed5c92e6f4013057bbf3374ea348ed0c8d6e7468a203573aa623c1f70"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
+hash = "f14ab00e7678ba29914b0d1a45a9e200ced324886dc41f2a3f1001a7a80ae67d"
 metafile = true
 
 [[files]]
@@ -437,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
+metafile = true
+
+[[files]]
+file = "mods/diegesis.pw.toml"
+hash = "32f76942ddbfcc74ee1b15c84de8551c450e39c0db72ec84f36349f2dcc64207"
 metafile = true
 
 [[files]]
@@ -577,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "a8182c79d946842d3867c14f71673e29ba06d54330797aa26a5a5d884368d22c"
+metafile = true
+
+[[files]]
+file = "mods/hands-on-delight.pw.toml"
+hash = "6d802d074f824d7d3bd77c22387182235e47570149917e55182af5356b9fd267"
 metafile = true
 
 [[files]]
@@ -1020,6 +1060,11 @@ hash = "bbcb54d5fbdd84fbd3ff55557c754c820b07d97ca33fa3dfc632d954d602ee46"
 metafile = true
 
 [[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "f2a83eaee57d5dac4d7dd3631ee44c277e01747955e9f5b4e022ffffd0edb61e"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
 hash = "1924382a3123d3933bf05403e7f0e4a01b7cb26f879866bd293c259c276fa9eb"
 metafile = true
@@ -1064,4 +1109,4 @@ hash = "65a8b0b7c6872bdd3a321270cafe4872553e8f29db65ed1f37180be3cebc70ae"
 
 [[files]]
 file = "unsup.toml"
-hash = "20a6f2c45c8ab6e14f8eb58dca66bc03e30b7a39eb465d7457d5a124bc433fda"
+hash = "3071a24a085f47acf1495aa1841280dc83ee0f2c617af2bd5047a5ae51ce958c"

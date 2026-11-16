@@ -1,0 +1,13 @@
+name = "Create: Advanced Optimization"
+filename = "createadvancedoptimization-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3JX8LxI/versions/s6GYZHaW/createadvancedoptimization-1.6.jar"
+hash-format = "sha512"
+hash = "7041a9928a911c4fd0c4026ef22efe8ae4ac4a0571b247610993ccc0f5f953078c1c7e15a39f72d591254cce409791883939dfaf6c808cb79ce6c532de86f6a0"
+
+[update]
+[update.modrinth]
+mod-id = "f3JX8LxI"
+version = "s6GYZHaW"

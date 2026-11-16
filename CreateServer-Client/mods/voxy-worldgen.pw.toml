@@ -1,0 +1,13 @@
+name = "Voxygen"
+filename = "Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xT0lnNE9/versions/PzNUZlWw/Voxy%20World%20Gen%20V2-neoforge-1.21.1-2.4.2.jar"
+hash-format = "sha512"
+hash = "1407723c46d6320eac110f7d31fb047ed08b5c654b83f9b77b8f19c90b351b497bf9a1180718dbf647579f3566b1b2a4f85f356c0d0de975a909c965d82bff5a"
+
+[update]
+[update.modrinth]
+mod-id = "xT0lnNE9"
+version = "PzNUZlWw"

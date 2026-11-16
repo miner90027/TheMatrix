@@ -1,0 +1,13 @@
+name = "Create: Server Optimizer"
+filename = "Create-Server-Optimizer-NeoForge-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9744876b3070415efadff3d9feb0509937429574"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8775331
+project-id = 1665325

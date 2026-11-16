@@ -1,0 +1,13 @@
+name = "Chimes"
+filename = "Chimes-v2.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mjGOuygR/versions/KIYfGvje/Chimes-v2.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "d4b689f2e3e3f2ff1fb94de5a672c9d06a8198f589ba18b847094fb78cc9236ee3da501b607ea1bbf227cbca80a1e34feb08dc242ccef9313613d9b093b48042"
+
+[update]
+[update.modrinth]
+mod-id = "mjGOuygR"
+version = "KIYfGvje"
