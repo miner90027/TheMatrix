@@ -24,20 +24,13 @@ Delete all mods in the mods folder & upload new versions.
 
 
 -- Both --
-+ Hands On Delight
 Loconautics
-+ Chimes
+
 Create: FireFighters
 burnt firefighters
-+ Create: Grappling Hooks
-+ Stuff n additions x sable compat
 
-+ Voxygen (optional if possible. Bundle w/ view enhancements)
+Easy Server Optimization
 
-+ Create: Server Optimizer
-+ Create: Advanced Optimization
-
-Easy Server Optimization 
 
 -- Client --
 
