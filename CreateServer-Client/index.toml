@@ -15,6 +15,11 @@ hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "086cb09b402389a49e01f984e1898dd688b490fba4c42fef9ca274b5dc5f648a"
+metafile = true
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "a812037d5eabf889bdf7d7ef8ea09b681f999e98a076977a2535beaf485f3962"
 metafile = true
@@ -722,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "7da9f19f8e2d0a66dc618ff6ad7063b31218ff01cfbca0930b47d3de8d7af427"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
