@@ -1,0 +1,13 @@
+name = "BetterF3 - Spark Module"
+filename = "BetterF3-Spark-Module-NeoForge-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZX8RqTF/versions/u4bAbvRl/BetterF3-Spark-Module-NeoForge-5.0.0.jar"
+hash-format = "sha512"
+hash = "d5078e2ab3dc67bfd2ce0f96403e4096644f02684194e8cb0bfbc5b899b2a098909fa2752b2a3d37ee583a4ef9bfda274ea66941d29423195938318ab48def2e"
+
+[update]
+[update.modrinth]
+mod-id = "iZX8RqTF"
+version = "u4bAbvRl"

@@ -105,6 +105,11 @@ hash = "c2fd5f53d8ee32c2f7a69959bf4fed00ac7e5ab3568b2bcf5c970a9b3b66969a"
 metafile = true
 
 [[files]]
+file = "mods/betterf3-spark-module.pw.toml"
+hash = "63a3200d03612eaebaeb9bc6238cc0a069555f6ef8f2111c10591412404553cb"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
@@ -115,6 +120,11 @@ hash = "c0ab58c18eb164129619a8b077a2dbb33804b96fc11077ee801648c211928b5e"
 metafile = true
 
 [[files]]
+file = "mods/bigsignwriter.pw.toml"
+hash = "fde9874c36f1c792ce50f2b6b96f0693427a23cb8ffd4a54ac5d914727e6ee2b"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
@@ -122,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/bobby-reneoforged.pw.toml"
 hash = "5be371e4ac8c4543824badc197937d8c04e15d2e1ef609875d7b3f63eed81aeb"
+metafile = true
+
+[[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "f5b3ec2cd8918bead12de30efac8b306055f29740a620e668848acec540c5dea"
 metafile = true
 
 [[files]]
@@ -162,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "c8b720dda31f66111e495493a4ead4a2027c67724388a519b1e45b66d46df129"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -450,11 +470,6 @@ hash = "225931d613f9bb64d781c8d9333820afd77a931bee3772160ac7c8739682eb8b"
 metafile = true
 
 [[files]]
-file = "mods/createaeronautics-mechanical-roller-fix.pw.toml"
-hash = "8954513492add2a05fd808480b95be3cfc5cd203d15d4e89e2b4db533a8acfdf"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "06c5a874ac690e50f58a517836e71b80909fcd7d244abd498ca1c403f15f2282"
 metafile = true
@@ -547,6 +562,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "336456ba2dae48ef86917e5777d8ca24a174dd6def2a8631853afe7c1b468baa"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "f2a7ac6cdc81cdb026b2c762512afb64aea932e0df4ce076a81acf590ad2dc15"
 metafile = true
 
 [[files]]
@@ -1012,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "848923e74def7cd3996f95ac7f6a9c3fe47c3030f43ae650a74b0a77df96ee49"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]

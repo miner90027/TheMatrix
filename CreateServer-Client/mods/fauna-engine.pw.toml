@@ -1,0 +1,13 @@
+name = "FAUNA Engine"
+filename = "faunaengine-1.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/94WRYNtT/versions/jSD5oqK8/faunaengine-1.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "d2d51cf8b8226066719cb9ce5aec443bd46884667977f01416f34c5f99e4b3771a2de37b3b62ffdbe9a078f63cd55b5c8b6f8b74bb082f302aa406301f7a756d"
+
+[update]
+[update.modrinth]
+mod-id = "94WRYNtT"
+version = "jSD5oqK8"
