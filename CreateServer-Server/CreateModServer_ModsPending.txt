@@ -25,13 +25,13 @@ Delete all mods in the mods folder & upload new versions.
 
 -- Both --
 Loconautics
+Create Deep Seas
 
 Create: FireFighters
 burnt firefighters
 
 Easy Server Optimization
 
-Lithium 
 
 -- Client --
 
