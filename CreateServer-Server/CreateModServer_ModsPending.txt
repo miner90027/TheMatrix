@@ -26,6 +26,7 @@ Delete all mods in the mods folder & upload new versions.
 -- Both --
 Loconautics
 Create Deep Seas
+Create Coasters
 
 Create: FireFighters
 burnt firefighters
