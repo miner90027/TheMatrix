@@ -675,11 +675,6 @@ hash = "5cb88c4947c1befcf0f4e51bfd14614f2533993aad2c911308b83589a996cacf"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-aeronautics.pw.toml"
-hash = "826ae103395d77f21bb4b9d15470904e457b4023d87b1c3d4366e617c58ca4d7"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "69b39b9ae4625d2b3b8b48974ef9447e28286a06bfdaf12f986a3da8efd76ae6"
 metafile = true
