@@ -27,6 +27,7 @@ Delete all mods in the mods folder & upload new versions.
 Loconautics
 Create Deep Seas
 Create Coasters
+Immersive Portals Aeronautics (if it behaves & doesn't crash)
 
 Create: FireFighters
 burnt firefighters
