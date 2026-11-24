@@ -21,7 +21,7 @@ Delete all mods in the mods folder & upload new versions.
 
 
 -- Server --
-
+Bluemap addons for Create & Aero
 
 -- Both --
 Loconautics
