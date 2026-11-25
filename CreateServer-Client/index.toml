@@ -285,6 +285,11 @@ hash = "d66f3ca71587c7ab8076f4a0154b0d3aa2f043c29c6373f2b8b2e5d6c3c3e91f"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-survival-physics-staff.pw.toml"
+hash = "fd1a6bf689cf7ceefc0aef6ba16fd0875a3df2b768462392136b07ef92d1ef3b"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
 metafile = true

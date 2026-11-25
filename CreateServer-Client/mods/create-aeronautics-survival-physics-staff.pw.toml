@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Survival Physics Staff"
+filename = "physics-staff-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2DWzl5QC/versions/m53zyfd7/physics-staff-1.0.0.jar"
+hash-format = "sha512"
+hash = "68252b63740c45ff9c76da70d3e04f822df0b27dc6deace9f80f00613edc4948120ee0ae5860d6022ccbe843ce012a2efd90ffc026e47969a0b8b4cb72309c78"
+
+[update]
+[update.modrinth]
+mod-id = "2DWzl5QC"
+version = "m53zyfd7"
